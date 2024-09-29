@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.16">
+  <diagram name="Page-1" id="DjGtPgiAbdhodhh2NyO_">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="SWOT Analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="8" y="157" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Internal" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="332" y="8" width="83" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Internal" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="332" y="107" width="83" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="External" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="329" y="206" width="89" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="External" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="329" y="305" width="89" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Strengths" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.65;exitY=-0.01;entryX=0;entryY=0.5;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="33" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8" value="Weaknesses" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.96;exitY=-0.01;entryX=0;entryY=0.5;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="132" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="Opportunities" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.96;exitY=0.99;entryX=0;entryY=0.5;" edge="1" parent="1" source="2" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="Threats" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.65;exitY=0.99;entryX=0;entryY=0.5;" edge="1" parent="1" source="2" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
