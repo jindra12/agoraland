@@ -4,17 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TATANSw4y2ViMUqnbgln-10" value="Strengths" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TATANSw4y2ViMUqnbgln-10" value="Strengths" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="70" y="40" width="500" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="TATANSw4y2ViMUqnbgln-11" value="&lt;div&gt;Weaknesses&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TATANSw4y2ViMUqnbgln-14" value="&lt;div&gt;Censorship resistant hosting&lt;/div&gt;&lt;div&gt;Ability to process payments in variety of crypto&lt;/div&gt;&lt;div&gt;Independence from government&lt;/div&gt;&lt;div&gt;Experienced developer team&lt;/div&gt;&lt;div&gt;Experience dealing with Croatian police&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="TATANSw4y2ViMUqnbgln-10">
+          <mxGeometry x="10" y="30" width="480" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="TATANSw4y2ViMUqnbgln-11" value="&lt;div&gt;Weaknesses&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=none;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="580" y="40" width="500" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="TATANSw4y2ViMUqnbgln-12" value="Opportunities" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TATANSw4y2ViMUqnbgln-16" value="&lt;div&gt;Small development team&lt;/div&gt;&lt;div&gt;Low budget&lt;/div&gt;&lt;div&gt;Limited advertisement abilities&lt;/div&gt;&lt;div&gt;Only part-time engagement&lt;/div&gt;&lt;div&gt;Potential vendor lock with Fleek&lt;/div&gt;&lt;div&gt;Potential high cost of website&lt;/div&gt;&lt;div&gt;No steady income stream&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="TATANSw4y2ViMUqnbgln-11">
+          <mxGeometry x="10" y="30" width="480" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="TATANSw4y2ViMUqnbgln-12" value="Opportunities" style="swimlane;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="70" y="510" width="500" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="TATANSw4y2ViMUqnbgln-13" value="Threats" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TATANSw4y2ViMUqnbgln-17" value="&lt;div&gt;Appealing to investors who cannot be physically present&lt;/div&gt;&lt;div&gt;Appealing to cheap labor force&lt;/div&gt;&lt;div&gt;Establishing labor community willing to go to Liberland&lt;/div&gt;&lt;div&gt;Supporting building and re-building LL infrastructure&lt;/div&gt;&lt;div&gt;Appeal to both profit driven and ideologically driven investors&lt;/div&gt;&lt;div&gt;Investors like directly knowing what their money is going towards&lt;/div&gt;&lt;div&gt;Easy way of keeping track of investor money&lt;/div&gt;&lt;div&gt;Easy way of spotting bad workers/bad organizers&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="TATANSw4y2ViMUqnbgln-12">
+          <mxGeometry x="10" y="30" width="480" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="TATANSw4y2ViMUqnbgln-13" value="Threats" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="580" y="510" width="500" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="TATANSw4y2ViMUqnbgln-18" value="&lt;div&gt;Croatian police destroying projects&lt;/div&gt;&lt;div&gt;Competition from other Liberlanders&lt;/div&gt;&lt;div&gt;Political issues&lt;/div&gt;&lt;div&gt;Tax issues&lt;/div&gt;&lt;div&gt;Croatian police threatening workers&lt;/div&gt;&lt;div&gt;Bad press coverage&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="TATANSw4y2ViMUqnbgln-13">
+          <mxGeometry x="10" y="30" width="480" height="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
