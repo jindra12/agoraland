@@ -10,17 +10,110 @@
         <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="2" vertex="1">
           <mxGeometry x="100" y="40" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-46" value="Login using crypto wallet" style="" vertex="1" parent="2">
+          <mxGeometry x="55.5" y="102" width="180" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-47" value="Setup nickname" style="" vertex="1" parent="2">
+          <mxGeometry x="55.5" y="202" width="180" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-48" value="Setup contacts" style="" vertex="1" parent="2">
+          <mxGeometry x="55.5" y="292" width="180" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-49" value="Setup push notifications" style="" vertex="1" parent="2">
+          <mxGeometry x="55.5" y="382" width="180" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-50" value="Search organizers" style="" vertex="1" parent="2">
+          <mxGeometry x="55.5" y="472" width="180" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-51" value="Select organizer" style="" vertex="1" parent="2">
+          <mxGeometry x="55.5" y="572" width="180" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-52" value="Search projects" style="" vertex="1" parent="2">
+          <mxGeometry x="55.5" y="662" width="180" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-53" value="Add project request" style="" vertex="1" parent="2">
+          <mxGeometry x="55.5" y="752" width="180" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-54" value="Chat with organizer" style="" vertex="1" parent="2">
+          <mxGeometry x="55.5" y="842" width="180" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-55" value="Pay organizer" style="" vertex="1" parent="2">
+          <mxGeometry x="55.5" y="932" width="180" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-56" value="Review progress" style="" vertex="1" parent="2">
+          <mxGeometry x="55.5" y="1022" width="180" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-57" value="Rate organizer" style="" vertex="1" parent="2">
+          <mxGeometry x="55.5" y="1102" width="180" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-58" value="Select project" style="" vertex="1" parent="2">
+          <mxGeometry x="55.5" y="1182" width="180" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-59" value="Request additional features" style="" vertex="1" parent="2">
+          <mxGeometry x="285.5" y="102" width="180" height="68" as="geometry" />
+        </mxCell>
         <mxCell id="3" value="Organizer" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="900" y="128" width="570" height="1262" as="geometry" />
         </mxCell>
         <mxCell id="13" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="3" vertex="1">
           <mxGeometry x="60" y="40" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-61" value="Request to be added" style="" vertex="1" parent="3">
+          <mxGeometry x="50" y="102" width="170" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-62" value="Add description" style="" vertex="1" parent="3">
+          <mxGeometry x="50" y="192" width="170" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-63" value="Add project" style="" vertex="1" parent="3">
+          <mxGeometry x="50" y="282" width="170" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-64" value="Chat with investors" style="" vertex="1" parent="3">
+          <mxGeometry x="50" y="372" width="170" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-65" value="Update project progress" style="" vertex="1" parent="3">
+          <mxGeometry x="50" y="462" width="170" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-66" value="Update project features" style="" vertex="1" parent="3">
+          <mxGeometry x="50" y="552" width="170" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-67" value="Onboard laborers" style="" vertex="1" parent="3">
+          <mxGeometry x="50" y="642" width="170" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-68" value="Manage laborer time sheet" style="" vertex="1" parent="3">
+          <mxGeometry x="50" y="732" width="170" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-69" value="Accept payment for project" style="" vertex="1" parent="3">
+          <mxGeometry x="50" y="822" width="170" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-70" value="Set project as finished" style="" vertex="1" parent="3">
+          <mxGeometry x="50" y="912" width="170" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-71" value="Scrap project" style="" vertex="1" parent="3">
+          <mxGeometry x="50" y="992" width="170" height="68" as="geometry" />
+        </mxCell>
         <mxCell id="4" value="Settler" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="1530" y="128" width="805.5" height="1262" as="geometry" />
         </mxCell>
         <mxCell id="VlkPv9jspcL5AIq_9kxq-43" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="4">
           <mxGeometry x="60" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-73" value="Sign up with e-mail" style="" vertex="1" parent="4">
+          <mxGeometry x="60" y="92" width="170" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-74" value="Sign up with phone" style="" vertex="1" parent="4">
+          <mxGeometry x="60" y="182" width="170" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-75" value="Receive work" style="" vertex="1" parent="4">
+          <mxGeometry x="60" y="282" width="170" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-76" value="Look up time sheet" style="" vertex="1" parent="4">
+          <mxGeometry x="60" y="372" width="170" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-77" value="Set preferred payment method" style="" vertex="1" parent="4">
+          <mxGeometry x="60" y="462" width="170" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VlkPv9jspcL5AIq_9kxq-78" value="Delete account" style="" vertex="1" parent="4">
+          <mxGeometry x="60" y="552" width="170" height="68" as="geometry" />
         </mxCell>
         <mxCell id="VlkPv9jspcL5AIq_9kxq-41" value="post command" style="" vertex="1" parent="1">
           <mxGeometry x="60" y="1680" width="110" height="50" as="geometry" />
